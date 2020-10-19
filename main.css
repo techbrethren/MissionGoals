@@ -1,0 +1,16 @@
+.ldBar-label {
+    color:  #fff;
+    font-size: 2.5em;
+    font-weight: 600;
+  }
+
+  .ldBar-label:after {
+    content: ""; /* change from % to USD */
+    font-size: 0.6em;
+  }
+
+  .ldBar {
+    width: 100;
+    height: 100;
+  }
+  
